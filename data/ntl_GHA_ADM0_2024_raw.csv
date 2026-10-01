@@ -1,0 +1,2 @@
+shapeID,name,area_km2,n_pixels,sol,rad_km2,sol_per_km2,mean_rad,median_rad,p90_rad,max_rad,lit_area_km2,lit_share,core_area_km2,core_share,pop,pop_inhabited,pop_lit,pop_dark,pop_lit_share,pop_density,sol_per_capita,gini_pixels,gini_pop_light,cv_rad,sol_share_nat,pop_share_nat,light_pop_ratio
+71095829B95122994846054,Ghana,238704,971019,608872,150146,2.55074,0.627044,0,1.13945,77.7176,48049.6,0.201294,3189.39,0.0133613,3.29669e+07,3.29661e+07,2.31334e+07,9.83269e+06,0.701734,138.108,0.0184692,0.928662,0.677577,5.09192,1,1,1
